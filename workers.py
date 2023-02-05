@@ -36,3 +36,6 @@ def txt2questions(doc: str, n=5, o=4) -> dict:
         # print(temp)
         q[i + 1]['options'] = temp
     return q
+
+
+# code is running but bugs hain.
